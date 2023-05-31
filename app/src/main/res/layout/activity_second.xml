@@ -21,8 +21,8 @@
 
     <TextView
         android:id="@+id/vistaTexto"
-        android:layout_width="244dp"
-        android:layout_height="74dp"
+        android:layout_width="340dp"
+        android:layout_height="211dp"
         android:layout_marginTop="128dp"
         android:fontFamily="@font/satisfy"
         android:text="Hola mundo"
@@ -32,4 +32,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="MissingConstraints" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
